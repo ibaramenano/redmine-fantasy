@@ -10,7 +10,7 @@ Redmineで始める異世界人心掌握術
 ## Usage
 
 これはGitHub上で執筆しているWeb小説です。  
-[Amazon KDP](https://www.amazon.co.jp/dp/B07KNHXLZG)および[note](https://note.mu/8am/m/m486011ca1529)でも公開しています。
+[Amazon KDP](https://www.amazon.co.jp/dp/B07KNHXLZG)でも公開しています。
 
 ## License
 
